@@ -1,0 +1,5 @@
+include ':AdapterDemo'
+include ':GradleUse'
+include ':MyLib'
+include ':app'
+rootProject.name = "GradleDemo"
